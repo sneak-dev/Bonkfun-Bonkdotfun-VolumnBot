@@ -38,7 +38,7 @@ A high-performance automated trading bot designed for Bonk.fun tokens on Raydium
 - 🛡️ **Anchor Framework**: Solana program integration using Anchor
 - 🛡️ **Raydium SDK v2**: Latest Raydium SDK for LaunchLab integration
 - 🛡️ **Environment Management**: Secure configuration with dotenv
-- 🛡️ **CLI Interface**: Interactive command-line interface
+- 🛡️ **CLI Interface**: Interactive command-line interface.....
 
 ## 🏗️ Architecture
 
